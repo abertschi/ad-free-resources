@@ -1,7 +1,9 @@
 ---
   channels:
     - name: Plumbus
+      version: 1
       path: plumbus.mp3
     - name: Eyeholes
+      version: 1
       path: eyeholes.mp3
 ...
