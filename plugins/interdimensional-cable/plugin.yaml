@@ -1,19 +1,19 @@
 ---
   channels:
-    - path eyeholes.mp3
-    - path funny_songs.mp3
-    - path gazorpazorpfield.mp3
-    - path get_schwifty.mp3
-    - path jan_michael_vincent.mp3
-    - path lil_bits.mp3
-    - path man_vs_car.mp3
-    - path octopus_man.mp3
-    - path opposite_news.mp3
-    - path plugin.yaml
-    - path plumbus.mp3
-    - path real_fake_doors.mp3
-    - path saturday_night_liveeeee.mp3
-    - path trunk_people.mp3
-    - path turbulent_juice.mp3
-    - path two_brothers.mp3
+    - path: eyeholes.mp3
+    - path: funny_songs.mp3
+    - path: gazorpazorpfield.mp3
+    - path: get_schwifty.mp3
+    - path: jan_michael_vincent.mp3
+    - path: lil_bits.mp3
+    - path: man_vs_car.mp3
+    - path: octopus_man.mp3
+    - path: opposite_news.mp3
+    - path: plugin.yaml
+    - path: plumbus.mp3
+    - path: real_fake_doors.mp3
+    - path: saturday_night_liveeeee.mp3
+    - path: trunk_people.mp3
+    - path: turbulent_juice.mp3
+    - path: two_brothers.mp3
 ...
