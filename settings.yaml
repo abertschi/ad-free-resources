@@ -1,2 +1,5 @@
 ---
+check_for_updates_on_github: true
+show_notification_on_update: false
+message_on_start: ""
 ...
