@@ -1,5 +1,8 @@
 ---
-check_for_updates_on_github: true
+use_github_releases_for_update_reminder: true
+show_seakbar_on_update: true
 show_notification_on_update: false
 message_on_start: ""
+message_on_use: ""
+enabled: true
 ...
