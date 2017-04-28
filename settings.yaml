@@ -2,7 +2,11 @@
 use_github_releases_for_update_reminder: true
 show_seakbar_on_update: true
 show_notification_on_update: false
-message_on_start: ""
-message_on_use: ""
+show_message_on_start: false
+message_on_start_title: ""
+message_on_start_content: ""
+show_message_on_use: false
+message_on_use_title: ""
+message_on_use_content: ""
 enabled: true
 ...
