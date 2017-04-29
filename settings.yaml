@@ -7,6 +7,6 @@ message_on_start_title: "1"
 message_on_start_content: "1"
 show_message_on_use: true
 message_on_use_title: "2"
-message_on_use_content: 1""
+message_on_use_content: "1"
 enabled: false
 ...
