@@ -1,7 +1,7 @@
 ---
 useGithubReleasesForUpdateReminder: false
 showSeakbarOnUpdate: true
-showNotificationOnUpdate: false
+showNotificationOnUpdate: true
 showMessageOnStart: false
 messageOnStartTitle: ""
 messageOnStartContent: ""
