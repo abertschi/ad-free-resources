@@ -2,11 +2,5 @@
 useGithubReleasesForUpdateReminder: true
 showSeakbarOnUpdate: true
 showNotificationOnUpdate: true
-showMessageOnStart: false
-messageOnStartTitle: ""
-messageOnStartContent: ""
-showMessageOnUse: false
-messageOnUseTitle: ""
-messageOnUseContent: ""
 enabled: true
 ...
