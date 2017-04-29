@@ -1,12 +1,12 @@
 ---
-use_github_releases_for_update_reminder: false
-show_seakbar_on_update: false
-show_notification_on_update: true
-show_message_on_start: true
-message_on_start_title: "1"
-message_on_start_content: "1"
-show_message_on_use: true
-message_on_use_title: "2"
-message_on_use_content: "1"
+useGithubReleasesForUpdateReminder: true
+showSeakbarOnUpdate: false
+showNotificationOnUpdate: true
+showMessageOnStart: true
+messageOnStartTitle: "4"
+messageOnStartContent: "3"
+showMessageOnUse: true
+messageOnUseTitle: "2"
+messageOnUseContent: "1"
 enabled: false
 ...
