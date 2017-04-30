@@ -1,5 +1,5 @@
 ---
-useGithubReleasesForUpdateReminder: true
+useGithubReleasesForUpdateReminder: false
 showSeakbarOnUpdate: true
 showNotificationOnUpdate: true
 enabled: true
