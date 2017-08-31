@@ -1,23 +1,43 @@
 ---
   channels:
     - path: eyeholes.mp3
+      name: Eye Holes
     - path: funny_songs.mp3
+      name: Funny Songs
     - path: gazorpazorpfield.mp3
+      name: Gazorpazorpfield
     - path: get_schwifty.mp3
+      name: Get schwifty
     - path: jan_michael_vincent.mp3
+      name: Jan Michael Vincent
     - path: lil_bits.mp3
+      name: Little bits
     - path: man_vs_car.mp3
+      name: Man vs. Car
     - path: octopus_man.mp3
+      name: Octopus Man
     - path: opposite_news.mp3
+      name: The opposite news
     - path: plumbus.mp3
+      name: Plumbus
     - path: real_fake_doors.mp3
+      name: FakeDoors.com
     - path: saturday_night_liveeeee.mp3
+      name: The Saturday Night Live Show
     - path: trunk_people.mp3
+      name: Trunk People
     - path: turbulent_juice.mp3
+      name: Turbulent Juice
     - path: two_brothers.mp3
+      name: Two brothers
     - path: ants_in_my_eyes.mp3
+      name: Ants in my Eyes
     - path: schmolney.mp3
+      name: Schmolney
     - path: personal_space.mp3
+      name: Personal Space
     - path: how_did_i_get_here.mp3
+      name: How did I get here
     - path: quick_mistery.mp3
+      name: Quick mistery
 ...
