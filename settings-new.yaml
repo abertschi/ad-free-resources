@@ -1,0 +1,9 @@
+---
+useGithubReleasesForUpdateReminder: false
+showSeakbarOnUpdate: true
+showNotificationOnUpdate: true
+enabled: true
+version: "v2.1"
+versionUrl: "https://abertschi.github.io/ad-free/landing/"
+versionNotify: true
+...
