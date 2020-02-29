@@ -5,5 +5,5 @@ showNotificationOnUpdate: true
 enabled: true
 versionCode: 34
 versionUrl: "https://abertschi.github.io/ad-free/landing/"
-versionNotify: true
+versionNotify: false
 ...
